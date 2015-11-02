@@ -81,6 +81,16 @@ public class update extends Activity{
 	    
 	    });
 	 
+	 Button cancle = (Button)findViewById(R.id.cancle);
+	 cancle.setOnClickListener(new Button.OnClickListener() {
+		   
+			public void onClick(View v) 
+		    {		  
+		       Intent i = new Intent(getBaseContext(), MainActivity.class);
+		       startActivity(i);
+		    }
+		    
+		    });
 	  }
 	
 	}	
