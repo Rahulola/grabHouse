@@ -14,6 +14,5 @@ As an assignment given. i tried to make the application.
   b. for updating that into listview
   c. for cancel
   
-  but because i don't have database knowledge till now so its little difficult to me to do it right now. Right now 
-  im not able to design the functioning of update button. but im learning more and more bymyself and passinate about
-  to do work in that field.
+but because i don't have database knowledge till now so its little difficult for me to do that part right now.
+but im learning more and more by myself and passinate about to do work in that field. I need a opportunity so that i can for with an fastgrowing comapny and enhance my knowledge.
